@@ -1,5 +1,7 @@
 # Jupyter-Notebook
++ all files are ipython
+
 + Learning Notes for books;
 + Game of Life Data project
-+ Will add more soon
++ Will add more soon...
 
